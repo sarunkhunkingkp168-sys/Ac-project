@@ -830,11 +830,15 @@ header{
      justify-content: center;
      align-items: center;
      gap: 30px;
-     img{
+      
+     a{
+        border-radius: 50%;
+        img{
+            border-radius: 50%;
         width: 50px;
      }
      img:hover{
         border: 2px solid white;
-        border-radius: 50%;
+     }
      }
 }
