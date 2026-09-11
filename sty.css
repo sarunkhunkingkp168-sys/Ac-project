@@ -196,15 +196,15 @@ header{
             }
         }
         .li:hover .drop1{
-            height: 310px;
+            height: 270px;
             visibility: visible;
         }
         .li:hover .drop2{
-            height: 500px;
+            height: 460px;
             visibility: visible;
         }
         .li:hover .drop3{
-            height: 300px;
+            height: 260px;
             visibility: visible;
         }
 
